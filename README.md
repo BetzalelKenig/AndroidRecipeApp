@@ -1,2 +1,2 @@
-# android
-Sum code
+# Android Recipe App
+App for store recipes
