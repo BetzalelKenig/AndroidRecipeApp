@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cancel">Cancel</string>
+    <string name="fire">Delete</string>
+    <string name="dialog_fire_missiles">Are You Sure?</string>
+    <string-array name="category_list">
+        <item>GENERAL</item>
+        <item>APPETIZER</item>
+        <item>MAIN COURSE</item>
+        <item>SOUPS</item>
+        <item>DESSERTS</item>
+
+    </string-array>
+</resources>
